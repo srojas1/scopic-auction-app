@@ -1,6 +1,8 @@
-<div>Auction APP TEST</div>
+## Auction APP TEST
 
-<div> Credentials used: </div>
+- Web application that manage auctions and bids. Made by Samuel Rojas for the Scopic Software Technical test. Made with Laravel and VueJS.
+
+Credentials used:
 
 - samuelro444@gmail.com / user1Pass
 - samuel_ro4@hotmail.com / user2Pass

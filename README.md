@@ -1,3 +1,11 @@
+<div>Auction APP TEST</div>
+
+<div> Credentials used: </div>
+
+- samuelro444@gmail.com / user1Pass
+- samuel_ro4@hotmail.com / user2Pass
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
